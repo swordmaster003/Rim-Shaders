@@ -8,8 +8,11 @@
 ## Features
 
 This package contains two rim shaders : 
-(1)	Rim Bumped Specular Shader,.
+
+(1)	Rim Bumped Specular Shader.
+
 (2)	Rim StandardPBR(Metallic setup) Shader.
+
 (3)	Rim StandardPBR(Specular setup) Shader.
 
 The types of these rim shaders are all the vertex and fragment shaders.
